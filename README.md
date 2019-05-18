@@ -12,7 +12,7 @@
     <li>Display: inline-block</li>
  
  
-    <li>Positioning elements (static, relative, absolute, fixed, sticky)
+   <li>Positioning elements (static, relative, absolute, fixed, sticky)
 </li>
     <li>Pseudo-class</li>
     <li>Pseudo-element</li>
