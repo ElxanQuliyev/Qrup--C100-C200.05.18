@@ -10,10 +10,7 @@
  CSS-ə dair aşağıdakı mövzuları w3schools və css-tricks-dən ətraflı şəkildə oxuyun:
   <ul>
     <li>Display: inline-block</li>
-    <li>Display: flex (https://css-tricks.com/snippets/css/a-guide-to-flexbox/,
-      <br>
-      https://flexboxfroggy.com/)
-</li>
+ 
     <li>Positioning elements (static, relative, absolute, fixed, sticky)
 </li>
     <li>Pseudo-class</li>
